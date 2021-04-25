@@ -14,29 +14,9 @@ for (const el in names) {
 }
 
 // METHODS OF JAVASCRIPT
-/*
--push
--pop
--shift
--unshift
--find
--forEach
--findIndex
--indexOf
--fill
--splice
--slice
--reverse
--map
--filter
--sort
--concat
--every
--some
--includes
--join
--reduce
-*/
+//-push-pop-shift-unshift-find-forEach-findIndex
+//-indexOf-fill-splice-slice-reverse-map-filter
+//-sort-concat-every-some-includes-join-reduce
 
 // PUSH()
 var names = ["haseeb", "ahmed", "saeed", "ali"];
@@ -139,4 +119,4 @@ names.join(""); // Returns => haseeb
 var numbers = [1, 2, 3, 4, 5, 6];
 // It has two parameters.
 // total works as accumulator, current is current value from Array
-const reducedNum = numbers.reduce((total, current) => total + current); // Output: 21
+var sum = numbers.reduce((total, current) => total + current); // Output: 21
