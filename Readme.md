@@ -21,6 +21,9 @@ After taking a look at above things, now you can start learning Data Structures.
 
 1. Arrays
 2. Lists
+   2.1 Singly Linked List
+   2.2 Doubly Linked List
+   2.3 Circular Linked List
 3. Stacks
 4. Queues
 5. Hash Tables
